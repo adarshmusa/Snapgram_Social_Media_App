@@ -1,6 +1,8 @@
-<div align="center">
-  
   <h3 align="center">A Social Media Application</h3>
+
+   <div align="center">
+     <img width="1280" alt="Screenshot 2024-07-27 195833" src="https://github.com/user-attachments/assets/eefd7454-8288-414c-9554-ce3de623becd">
+    </div>
 
    <div align="center">
      Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
@@ -13,6 +15,7 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
+5. ⬆️ [Deployed On Vercel](#deployed-on-vercel)
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -103,6 +106,10 @@ npm start
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
+
+## <a name="deployed-on-vercel">⬆️ Deployed on Vercel</a>
+
+One of the easiest ways to deploy your app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme).
 
 </a>
 
